@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DlegendZ/DlegendZ/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/DlegendZ/DlegendZ/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/DlegendZ/DlegendZ/output/pacman.svg" />
 </p>
 
 ---
