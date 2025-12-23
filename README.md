@@ -47,14 +47,9 @@
   />
 </p>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/DlegendZ/DlegendZ/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/DlegendZ/DlegendZ/output/pacman.svg" />
 </p>
-
----
 
 <h2 align="center">🔗 Connect Together 👍</h2>
 
