@@ -30,7 +30,7 @@
 <h2 align="center">📊 My GitHub Stats 🧠</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DlegendZ&show_icons=true&theme=gruvbox&hide_border=true&count_private=false&include_all_commits=false" />
+  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=DlegendZ&theme=gruvbox&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DlegendZ&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+  <img width="auto" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
 
 <div>
