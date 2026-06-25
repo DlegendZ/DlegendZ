@@ -68,7 +68,7 @@ Workspace-based task tracking with contribution analytics, threaded comments, an
 
 **Stack:** `TypeScript` `Express` `Socket.io` `PostgreSQL` `Prisma`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arutoo/Taskora) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arutoo/Taskora) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://taskora-omega.vercel.app)
 
 </td>
 <td width="50%" valign="top">
