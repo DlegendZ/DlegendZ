@@ -12,14 +12,13 @@
 
 <br>
 
-<h1 style="font-family: consolas;">👋 About Me</h1> 
+## 👋 About Me
 
-Highly motivated software developer who likes figuring out how systems actually work under the hood, not just building features but understanding why they're built that way. I'm especially drawn to backend engineering: designing APIs, modeling data, and building infrastructure that can hold up under real-world conditions.
+A software developer who likes figuring out how systems actually work under the hood, not just building features but understanding why they're built that way. Backend engineering is where I spend most of my attention: planning solutions, designing APIs, modeling data, and building infrastructure that can hold up under real-world conditions.
 
-- 🎓 2nd-year CS Student, **Global Class @ BINUS University**
-- 🎯 Working toward backend/full-stack roles at **Singapore tech companies**
-- 🛠️ Backend experience across **Java/Spring Boot**, **TypeScript/Node.js**, and **Python/FastAPI**
-- 🌏 Planning a semester abroad in **Korea** (Sem 6) ahead of a full-time internship push (Sem 7)
+Currently a 2nd-year CS student in the Global Class program at BINUS University, building projects that go beyond coursework to develop skills the industry actually needs.
+
+Working toward backend and full-stack roles at Singapore tech companies, with hands-on experience across Java/Spring Boot, TypeScript/Node.js, and Python/FastAPI.
 
 <br>
 
@@ -33,15 +32,11 @@ Highly motivated software developer who likes figuring out how systems actually 
 
 <br>
 
-## 🚀 Flagship Project
+## 🚀 Flagship Project (On Progress)
 
-<div align="center">
-
-### [Hireloop](https://github.com/your-username/hireloop) — Recruitment Pipeline Platform
+### [Hireloop](https://github.com/DlegendZ/Hireloop) — Recruitment Pipeline Platform
 
 *A backend-first recruitment platform modeling how real hiring pipelines actually work, built around RBAC, stage-based workflows, and production-readiness practices.*
-
-</div>
 
 | Capability | Implementation |
 |---|---|
@@ -54,11 +49,7 @@ Highly motivated software developer who likes figuring out how systems actually 
 
 **Stack:** `Java` `Spring Boot` `PostgreSQL` `Redis` `Docker` `GitHub Actions`
 
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/hireloop)
-
-</div>
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DlegendZ/Hireloop)
 
 <br>
 
@@ -89,21 +80,21 @@ JWT auth, role-based borrow permissions, relational schema design.
 
 **Stack:** `Node.js` `Express` `PostgreSQL` `JWT`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/library-management-system)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DlegendZ/Library-Management-System)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Task Management API (Trello-lite)
-**Project/task collaboration API** with filtering and search
+### ✅ Trello-lite
+**Project/task collaboration** with filtering and search
 
 JWT auth, pagination, full-text-style search, role-based permissions.
 
 **Stack:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/task-management-api)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DlegendZ/Project-Management)
 
 </td>
 <td width="50%" valign="top">
@@ -122,8 +113,6 @@ Planned architecture: a Python Windows agent paired with a Node.js/TypeScript ba
 <br>
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 **Languages**
 <br>
@@ -152,21 +141,15 @@ Planned architecture: a Python Windows agent paired with a Node.js/TypeScript ba
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-</div>
-
 <br>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+## 📊 My Coding Stats
+ 
+<!--START_SECTION:waka-->
+```text
+Waking up... ⏳ Stats will appear here after WakaTime syncs your activity.
+```
+<!--END_SECTION:waka-->
 
 <br>
 
@@ -174,8 +157,8 @@ Planned architecture: a Python Windows agent paired with a Node.js/TypeScript ba
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/raynald-arvan-lim-830689239/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:raynaldarvanlim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
@@ -184,4 +167,4 @@ Planned architecture: a Python Windows agent paired with a Node.js/TypeScript ba
 <sub>Open to backend/full-stack freelance work, internships, and entry-level opportunities.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8c2cc,100:4a5a6b&height=100&section=footer" width="100%"/>

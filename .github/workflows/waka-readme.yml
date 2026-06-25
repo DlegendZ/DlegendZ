@@ -1,0 +1,34 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 17 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          CODE_LANG: text
+          TIME_RANGE: all_time
+          LANG_COUNT: 8
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: Prisma "GitIgnore file" Other Markdown SCSS Image svg "Git Config" Text XML Docker "Java Properties" YAML SQL TSConfig "Image (svg)"
+          COMMIT_MESSAGE: "docs: update coding stats"
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: DlegendZ
+          COMMITTER_EMAIL: raynaldarvanlim@gmail.com
+          AUTHOR_NAME: DlegendZ
+          AUTHOR_EMAIL: raynaldarvanlim@gmail.com
