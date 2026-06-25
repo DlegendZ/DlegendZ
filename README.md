@@ -146,9 +146,15 @@ Planned architecture: a Python Windows agent paired with a Node.js/TypeScript ba
 ## 📊 My Coding Stats
  
 <!--START_SECTION:waka-->
+
 ```text
-Waking up... ⏳ Stats will appear here after WakaTime syncs your activity.
+From: 29 January 2026 - To: 24 June 2026
+
+Total Time: 0 secs
+
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <br>
