@@ -6,56 +6,29 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=3000&pause=3000&color=b8c2cc&center=true&vCenter=true&width=700&lines=Building+Hireloop+%E2%80%94+Spring+Boot+Recruitment+Platform+💼;Backend+Engineering+Across+Java%2C+TypeScript+%26+Python+🧑‍💻;Targeting+Singapore+Tech+Companies+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=3000&pause=3000&color=b8c2cc&center=true&vCenter=true&width=700&lines=Hello%2C+I+am+a+Software+Engineer;您+好%2C+我+是+一+名+软+件+工+程+师)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
-## 👋 About Me
-
-A software developer who likes figuring out how systems actually work under the hood, not just building features but understanding why they're built that way. Backend engineering is where I spend most of my attention: planning solutions, designing APIs, modeling data, and building infrastructure that can hold up under real-world conditions.
-
-Currently a 2nd-year CS student in the Global Class program at BINUS University, building projects that go beyond coursework to develop skills the industry actually needs.
-
-Working toward backend and full-stack roles at Singapore tech companies, with hands-on experience across Java/Spring Boot, TypeScript/Node.js, and Python/FastAPI.
-
-<br>
-
-## 🧭 Currently Focused On
+## 🛠️ My Coding Stats / 我的编程统计数据 🛠️
+ 
+<!--START_SECTION:waka-->
 
 ```text
-01. Java & Spring Boot Ecosystem      → REST, JPA/Hibernate, DI/IoC, layered architecture
-02. Infrastructure & Performance      → Redis caching, async processing, system design
-03. DevOps & Production Readiness     → Docker, GitHub Actions CI/CD
+From: 29 January 2026 - To: 24 June 2026
+
+Total Time: 0 secs
+
+No activity tracked
 ```
 
-<br>
-
-## 🚀 Flagship Project (On Progress)
-
-### [Hireloop](https://github.com/DlegendZ/Hireloop) — Recruitment Pipeline Platform
-
-*A backend-first recruitment platform modeling how real hiring pipelines actually work, built around RBAC, stage-based workflows, and production-readiness practices.*
-
-| Capability | Implementation |
-|---|---|
-| 🔐 **Access Control** | Role-Based Access Control (RBAC) across 5 distinct roles |
-| 🔄 **Pipeline Logic** | Candidate pipeline modeled as a finite state machine |
-| ⚡ **Performance** | Redis caching layer to reduce repeated query load |
-| 📬 **Async Processing** | Asynchronous notification system, decoupled from request flow |
-| 📦 **Containerization** | Dockerized with multi-service `docker-compose` stack |
-| 🔁 **CI/CD** | Automated pipelines via GitHub Actions |
-
-**Stack:** `Java` `Spring Boot` `PostgreSQL` `Redis` `Docker` `GitHub Actions`
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DlegendZ/Hireloop)
+<!--END_SECTION:waka-->
 
 <br>
 
-## 🛠️ Other Backend Projects
-
-A look at how the same backend fundamentals (REST, layered architecture, auth, ORM) translate across different language ecosystems.
+## 🛠️ Signature Projects / 标志性项目 🛠️
 
 <table>
 <tr>
@@ -63,8 +36,6 @@ A look at how the same backend fundamentals (REST, layered architecture, auth, O
 
 ### 📋 [Taskora](https://github.com/Arutoo/Taskora)
 **Real-time team project management platform** — live deployment
-
-Workspace-based task tracking with contribution analytics, threaded comments, and live notifications via WebSockets. Includes JWT refresh-token rotation and a scheduled cron job for overdue detection.
 
 **Stack:** `TypeScript` `Express` `Socket.io` `PostgreSQL` `Prisma`
 
@@ -75,8 +46,6 @@ Workspace-based task tracking with contribution analytics, threaded comments, an
 
 ### 📚 Library Management System
 **Full CRUD + Auth system** for book lending and member tracking
-
-JWT auth, role-based borrow permissions, relational schema design.
 
 **Stack:** `Node.js` `Express` `PostgreSQL` `JWT`
 
@@ -90,8 +59,6 @@ JWT auth, role-based borrow permissions, relational schema design.
 ### ✅ Trello-lite
 **Project/task collaboration** with filtering and search
 
-JWT auth, pagination, full-text-style search, role-based permissions.
-
 **Stack:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DlegendZ/Project-Management)
@@ -99,20 +66,19 @@ JWT auth, pagination, full-text-style search, role-based permissions.
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ ParentGuard <sub>*(concept / SRD stage)*</sub>
-**Cross-language parental monitoring system** — in design phase
+### 🚚 Waypoint <sub>*(in development)*</sub>
+**Real-time fleet & delivery tracking**, building live location tracking with authorized, per-user data isolation.
 
-Planned architecture: a Python Windows agent paired with a Node.js/TypeScript backend and React dashboard.
+**Stack:** `Java 17` `Spring Boot 3.5` `PostgreSQL` `Redis` `WebSocket/STOMP` `JWT`
 
-**Planned stack:** `Python` `Node.js` `TypeScript` `React`
-
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DlegendZ/Waypoint)
 </td>
 </tr>
 </table>
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack / 技术栈 🛠️
 
 **Languages**
 <br>
@@ -141,24 +107,6 @@ Planned architecture: a Python Windows agent paired with a Node.js/TypeScript ba
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<br>
-
-## 📊 My Coding Stats
- 
-<!--START_SECTION:waka-->
-
-```text
-From: 29 January 2026 - To: 24 June 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<br>
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -170,7 +118,7 @@ No activity tracked
 </div>
 
 <div align="center">
-<sub>Open to backend/full-stack freelance work, internships, and entry-level opportunities.</sub>
+<sub>Are you Wi-Fi? Because I am feeling a really strong connection. 😏</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8c2cc,100:4a5a6b&height=100&section=footer" width="100%"/>
