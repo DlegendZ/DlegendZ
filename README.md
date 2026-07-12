@@ -12,7 +12,7 @@
 
 <br>
 
-## 🛠️ My Coding Stats / 我的编程统计数据 🛠️
+## 🛠️ My Coding Stats / 我 的 编 程 统 计 数 据 🛠️
  
 <!--START_SECTION:waka-->
 
@@ -28,16 +28,16 @@ No activity tracked
 
 <br>
 
-## 🛠️ Signature Projects / 标志性项目 🛠️
+## 🛠️ Signature Projects / 标 志 性 项 目 🛠️
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📋 [Taskora](https://github.com/Arutoo/Taskora)
-**Real-time team project management platform** — live deployment
+A team project management web app for creating workspaces, assigning tasks, tracking progress, and collaborating in real time. — Teams-Lite
 
-**Stack:** `TypeScript` `Express` `Socket.io` `PostgreSQL` `Prisma`
+**Stack:** `TypeScript` `Express` `Socket.io` `PostgreSQL` `Prisma` `Node.js` `bcrypt` `Zod` `Vercel` `Render` `Jest` `Supertest` `REST` `JWT` `Postman` `Neon` `UptimeRobot`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arutoo/Taskora) [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://taskora-omega.vercel.app)
 
@@ -45,9 +45,9 @@ No activity tracked
 <td width="50%" valign="top">
 
 ### 📚 Library Management System
-**Full CRUD + Auth system** for book lending and member tracking
+A web app for a university Library Management System that handles users, books, borrowing, returns, and fines.
 
-**Stack:** `Node.js` `Express` `PostgreSQL` `JWT`
+**Stack:** `Node.js` `Express` `PostgreSQL` `JWT` `Postman` `bcrypt` `Argon2` `REST` `Postman` `Vercel` `Neon`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DlegendZ/Library-Management-System)
 
@@ -56,20 +56,20 @@ No activity tracked
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Trello-lite
-**Project/task collaboration** with filtering and search
+### ✅ Trello
+A full-stack project management app inspired by Trello. Organize work into projects, manage tasks on a Kanban board, assign members, and track progress. — Trello-Lite
 
-**Stack:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL`
+**Stack:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `JWT` `bcrypt` `pytest` `unittest` `vercel` `Postman` `Neon`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DlegendZ/Project-Management)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚚 Waypoint <sub>*(in development)*</sub>
-**Real-time fleet & delivery tracking**, building live location tracking with authorized, per-user data isolation.
+### 🚚 Waypoint 
+Real-time fleet & delivery tracking full-stack app built with Java, Spring Boot, WebSocket & Redis — inspired by Uber/GrabExpress-style live location systems.
 
-**Stack:** `Java 17` `Spring Boot 3.5` `PostgreSQL` `Redis` `WebSocket/STOMP` `JWT`
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `Redis` `WebSocket/STOMP` `JWT` `JPA/Hibernate` `bcrypt` `@Async/Spring` `Redis counters` `Docker` `CI/CD` `Postman` `Render` `Vercel` `Neon` `UptimeRobot` `Swagger`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DlegendZ/Waypoint)
 </td>
@@ -78,7 +78,7 @@ No activity tracked
 
 <br>
 
-## 🛠️ Tech Stack / 技术栈 🛠️
+## 🛠️ Tech Stack / 技 术 栈 🛠️
 
 **Languages**
 <br>
@@ -93,19 +93,34 @@ No activity tracked
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
-**Databases & Caching**
+**Real-time & Messaging**
+<br>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+**Databases & ORMs**
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
-**Tools & DevOps**
+**Testing & Tools**
+<br>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+**DevOps & Deployment**
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 ## 📫 Let's Connect
 
@@ -115,10 +130,6 @@ No activity tracked
 <a href="mailto:raynaldarvanlim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-</div>
-
-<div align="center">
-<sub>Are you Wi-Fi? Because I am feeling a really strong connection. 😏</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8c2cc,100:4a5a6b&height=100&section=footer" width="100%"/>
