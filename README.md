@@ -15,7 +15,7 @@
 <br>
 
 > [!TIP]
-> **Recruiter speedrun, 30 seconds:** backend in Java/Spring Boot, Node/Express and Python/FastAPI · real-time systems with WebSocket, Socket.IO and Redis · auth done properly (JWT, httpOnly cookies, RBAC) · tested with JUnit, Testcontainers, Jest and pytest · currently building local-first agentic AI · **17 projects below, 8 with live demos you can click right now.**
+> **Speedrun, 30 seconds:** backend in Java/Spring Boot, Node/Express and Python/FastAPI · real-time systems with WebSocket, Socket.IO and Redis · auth done properly (JWT, httpOnly cookies, RBAC) · tested with JUnit, Testcontainers, Jest and pytest · currently building local-first agentic AI · **17 projects below, 8 with live demos you can click right now.**
 
 <a name="about"></a>
 
@@ -393,8 +393,6 @@ TOML              2 hrs 7 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <br>
 
 <div align="center">
-
-If you scrolled all the way down here, you're either hiring or very thorough. Either way, thanks for reading. 🙇
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC002D,45:3A1F24,100:1B1B1B&height=140&section=footer&text=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%80%81%E3%81%BE%E3%81%9F%E3%81%AD&fontSize=26&fontColor=F4EFE6&fontAlignY=72" width="100%"/>
 
