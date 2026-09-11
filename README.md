@@ -47,7 +47,7 @@ Right now it's **agentic AI engineering**, and I'm doing it the hard way: a 6 GB
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="middle">
 
 <a href="https://github.com/DlegendZ/Alexa"><img src="https://raw.githubusercontent.com/DlegendZ/Alexa/main/doc/screenshots/alexa.png" width="100%" alt="Alexa answering a weather and price question, with the Backstage panel showing each step"/></a>
 
@@ -156,7 +156,7 @@ Demo login: `demo@trellolite.dev` / `Demo1234`
 <tr>
 <td width="50%" valign="top">
 
-<p align="center"><a href="https://github.com/DlegendZ/AcademicShield"><img src="https://raw.githubusercontent.com/DlegendZ/AcademicShield/main/docs/screenshots/03-results.png" height="300" alt="Academic Shield results: burnout gauge, predicted GPA and profile radar"/></a></p>
+<a href="https://github.com/DlegendZ/AcademicShield"><img src="https://raw.githubusercontent.com/DlegendZ/AcademicShield/main/docs/screenshots/01-lifestyle-input.png" width="100%" alt="Academic Shield lifestyle and habits input step"/></a>
 
 ### 🛡️ [AcademicShield](https://github.com/DlegendZ/AcademicShield)
 
@@ -169,7 +169,7 @@ Demo login: `demo@trellolite.dev` / `Demo1234`
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><a href="https://github.com/DlegendZ/Jalur-Obat"><img src="https://raw.githubusercontent.com/DlegendZ/Jalur-Obat/main/docs/screenshots/home.png" height="300" alt="Jalur Obat home screen"/></a></p>
+<p align="center"><a href="https://github.com/DlegendZ/Jalur-Obat"><img src="https://raw.githubusercontent.com/DlegendZ/Jalur-Obat/main/docs/screenshots/journey-list.png" width="49%" alt="Jalur Obat journey list with AI risk scores"/> <img src="https://raw.githubusercontent.com/DlegendZ/Jalur-Obat/main/docs/screenshots/journey-detail.png" width="49%" alt="Jalur Obat journey detail per checkpoint"/></a></p>
 
 ### 💊 [Jalur Obat](https://github.com/DlegendZ/Jalur-Obat)
 
@@ -189,7 +189,7 @@ Demo login: `demo@trellolite.dev` / `Demo1234`
 <tr>
 <td width="50%" valign="top">
 
-<p align="center"><a href="https://github.com/DlegendZ/THE-SYSTEM"><img src="https://github.com/user-attachments/assets/fe0e7cf2-4b0b-47b6-9fa3-d4043bf24013" height="300" alt="THE SYSTEM app screens"/></a></p>
+<p align="center"><a href="https://github.com/DlegendZ/THE-SYSTEM"><img src="https://raw.githubusercontent.com/DlegendZ/THE-SYSTEM/main/docs/screenshots/command.png" width="32%" alt="THE SYSTEM command screen with daily objectives"/> <img src="https://raw.githubusercontent.com/DlegendZ/THE-SYSTEM/main/docs/screenshots/codex.png" width="32%" alt="THE SYSTEM codex of missions"/> <img src="https://raw.githubusercontent.com/DlegendZ/THE-SYSTEM/main/docs/screenshots/mirror.png" width="32%" alt="THE SYSTEM mirror with equipment and attributes"/></a></p>
 
 ### ⭐ [THE SYSTEM](https://github.com/DlegendZ/THE-SYSTEM)
 
@@ -202,7 +202,7 @@ Demo login: `demo@trellolite.dev` / `Demo1234`
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><a href="https://github.com/DlegendZ/piring_harapan"><img src="https://raw.githubusercontent.com/DlegendZ/piring_harapan/main/docs/screenshots/role-select.png" height="300" alt="Piring Harapan role selection screen"/></a> <img src="https://raw.githubusercontent.com/DlegendZ/piring_harapan/main/docs/screenshots/pemerintah-home.png" height="300" alt="Piring Harapan government dashboard"/></p>
+<p align="center"><a href="https://github.com/DlegendZ/piring_harapan"><img src="https://raw.githubusercontent.com/DlegendZ/piring_harapan/main/docs/screenshots/petani-store.png" width="32%" alt="Piring Harapan farmer store dashboard"/> <img src="https://raw.githubusercontent.com/DlegendZ/piring_harapan/main/docs/screenshots/pemasak-home.png" width="32%" alt="Piring Harapan cook home with AI menu recommendation"/> <img src="https://raw.githubusercontent.com/DlegendZ/piring_harapan/main/docs/screenshots/pemerintah-aspiration.png" width="32%" alt="Piring Harapan government review analysis"/></a></p>
 
 ### 🍽️ [Piring Harapan](https://github.com/DlegendZ/piring_harapan)
 
