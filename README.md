@@ -106,7 +106,7 @@ Seventeen projects, Alexa included. Grouped by what they taught me, not by when 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/DlegendZ/Taskora"><img src="https://raw.githubusercontent.com/DlegendZ/Taskora/main/Documents/Screenshots/login.png" width="100%" alt="Taskora sign-in page"/></a>
+<a href="https://github.com/DlegendZ/Taskora"><img src="https://raw.githubusercontent.com/DlegendZ/Taskora/main/Documents/Screenshots/dashboard.png" width="100%" alt="Taskora dashboard with upcoming tasks, projects, deadlines calendar and stats"/></a>
 
 ### 📋 [Taskora](https://github.com/DlegendZ/Taskora)
 
