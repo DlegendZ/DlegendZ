@@ -2,11 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img src="assets/header-light.svg" width="100%" alt="Raynald Arvan Lim — Agentic AI · SaaS · PaaS · IaaS — 1st Place AWS / SAP Agentic AI Hackathon APAC 2026"/></picture>
 
-<br><br>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/currently-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/currently-light.svg"><img src="assets/currently-light.svg" width="100%" alt="Currently learning agentic AI engineering and how to build faster with AI"/></picture>
-
-<br><br>
 
 <img src="assets/h-projects.svg" width="100%" alt="Latest Projects"/>
 
@@ -14,8 +10,6 @@
 <a href="https://github.com/DlegendZ/Velox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/velox-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/velox-light.svg"><img src="assets/velox-light.svg" width="49%" alt="Velox — 3D browser racing game with online multiplayer"/></picture></a>
 <a href="https://github.com/DlegendZ/Alexa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/alexa-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/alexa-light.svg"><img src="assets/alexa-light.svg" width="49%" alt="Alexa — local-first AI agent"/></picture></a>
 <a href="https://github.com/DlegendZ/Waypoint"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/waypoint-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/waypoint-light.svg"><img src="assets/waypoint-light.svg" width="49%" alt="Waypoint — real-time delivery tracking platform"/></picture></a>
-
-<br><br>
 
 <img src="assets/h-stats.svg" width="100%" alt="Coding Stats"/>
 
